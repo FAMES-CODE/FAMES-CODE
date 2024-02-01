@@ -1,14 +1,20 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWRoNXIwaXpkNTBhcThjYmwyNTF0YmxqdjAyanZvMWsyMXdoYjlpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
 </div>
+
+###
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="168" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="168" height="40" alt="twitter logo"  />
+  <a href=""> 
+  <img src="https://raw.githubusercontent.com/FAMES-CODE/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+  </a>
+  <a href=""> 
+  <img src="https://raw.githubusercontent.com/FAMES-CODE/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +31,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, Welcoem to my profile</h1>
+<h1 align="center">Hey there 👋, Welcome to my profile</h1>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! Welcome to my profile !</h2>
 
 ###
 <div align="center">
@@ -43,6 +43,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FAMES-CODE/FAMES-CODE/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
